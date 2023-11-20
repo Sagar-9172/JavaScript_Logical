@@ -7,4 +7,4 @@ function sumNumber(num) {
     }
     return sum
 }
-console.log(sumNumber(101))
+console.log(sumNumber(112))
